@@ -63,8 +63,3 @@ This project was a great opportunity to explore:
 * Submission workflows with Kaggle CLI
 
 Thank you for checking out my work!
-
-```
-
-
-
