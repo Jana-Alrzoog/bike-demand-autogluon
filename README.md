@@ -53,44 +53,6 @@ The goal of this project is to predict the number of bike rentals per hour in Wa
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-.
-├── notebook.ipynb                  # Jupyter notebook with full solution
-├── submission.csv                  # Final Kaggle submission
-├── model\_train\_score.png           # Training performance plot
-├── model\_test\_score.png            # Kaggle submission performance plot
-├── Bike\_Sharing\_Report\_Jana.docx  # Full project report
-└── README.md                       # Project overview
-
-````
-
----
-
-## 📌 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bike-demand-autogluon.git
-   cd bike-demand-autogluon
-````
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
----
-
 ## 🏁 Final Thoughts
 
 This project was a great opportunity to explore:
@@ -103,4 +65,6 @@ This project was a great opportunity to explore:
 Thank you for checking out my work!
 
 ```
+
+
 
